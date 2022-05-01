@@ -160,7 +160,7 @@ sup {
 }
 
 a {
-  color: #38a1c1;
+  color: #583c99;
   text-decoration: none;
   background-color: transparent;
 }
@@ -381,8 +381,8 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 1.5rem;
-  color: #38a1c1;
-  border-bottom: 3px solid #e41c1f;
+  color: #583c99;
+  border-bottom: 3px solid #e7fc00;
 }
 
 h5, .h5 {
@@ -2475,8 +2475,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #38a1c1;
-  border-color: #38a1c1;
+  background-color: #583c99;
+  border-color: #583c99;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2491,8 +2491,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #38a1c1;
-  border-color: #38a1c1;
+  background-color: #583c99;
+  border-color: #583c99;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -2714,25 +2714,25 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #38a1c1;
-  border-color: #38a1c1;
+  color: #583c99;
+  border-color: #583c99;
 }
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #38a1c1;
-  border-color: #38a1c1;
+  background-color: #583c99;
+  border-color: #583c99;
 }
 .btn-outline-primary:focus, .btn-outline-primary.focus {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.5);
 }
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #38a1c1;
+  color: #583c99;
   background-color: transparent;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #38a1c1;
-  border-color: #38a1c1;
+  background-color: #583c99;
+  border-color: #583c99;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.5);
@@ -2915,7 +2915,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #38a1c1;
+  color: #583c99;
   text-decoration: none;
 }
 .btn-link:hover {
@@ -3192,7 +3192,7 @@ input[type=button].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #38a1c1;
+  background-color: #583c99;
 }
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #6c757d;
@@ -3518,8 +3518,8 @@ input[type=button].btn-block {
 }
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
-  border-color: #38a1c1;
-  background-color: #38a1c1;
+  border-color: #583c99;
+  background-color: #583c99;
 }
 .custom-control-input:focus ~ .custom-control-label::before {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.25);
@@ -3574,7 +3574,7 @@ input[type=button].btn-block {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26l2.974 2.99L8 2.193z'/%3e%3c/svg%3e");
 }
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
-  border-color: #38a1c1;
+  border-color: #583c99;
   background-color: #bd5d38;
 }
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
@@ -6100,7 +6100,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #38a1c1 !important;
+  background-color: #583c99 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #38a1c1 !important;
+  color: #583c99 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #38a1c1;
+  background-color: #583c99;
 }
 
 .dev-icons {
@@ -10134,5 +10134,5 @@ section.resume-section .resume-section-content {
   }
 }
 .add-ons{
-  color: #e41c1f;
+  color: #e7fc00;
 }
